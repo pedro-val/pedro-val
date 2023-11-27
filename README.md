@@ -1,5 +1,5 @@
 <h1 align="center">Olá eu sou o Pedro</h1>
-<h3 align="center">Backend/full-stack developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on [Imigrate consultant fullstack project](private)
 
