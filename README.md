@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Imigrate consultant fullstack project](private)
 
-- 🌱 I’m currently learning **C#, aspNET Core, .NET Core**
+- 🌱 I’m currently learning **Rust, Loco.rs, SeaORM**
 
 - 👨‍💻 All my public projects are available at [https://github.com/pedro-val](https://github.com/pedro-val)
 
