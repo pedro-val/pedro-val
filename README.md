@@ -1,7 +1,7 @@
 <h1 align="center">Olá eu sou o Pedro</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Imigr-e](https://imigre.ai){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://imigre.ai" target="_blank">Imigr-e</a>
 
 - 🌱 I’m currently learning **Rust, Loco.rs, SeaORM**
 
