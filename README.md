@@ -26,6 +26,7 @@
    <a href=https://www.rust-lang.org/ target=_blank rel=noreferrer><img src=https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png alt=rust width=40 height=40/></a> <!-- [6](https://www.rust-lang.org/) -->
   <a href=https://loco.rs target=_blank rel=noreferrer><img src=https://avatars.githubusercontent.com/u/151030972?s=200&v=4 alt=loco.rs width=40 height=40/></a> <!-- [3](https://loco.rs/) -->
       <a href=https://nextjs.org/ target=_blank rel=noreferrer><img src=https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png alt=rust width=40 height=40/></a> <!-- [6](https://nextjs.org/) -->
+    <a href=https://tailwindcss.com/ target=_blank rel=noreferrer><img src=https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png alt=rust width=40 height=40/></a> <!-- [6](https://tailwindcss.com/) -->
   <a href=https://azure.microsoft.com/en-in/ target=_blank rel=noreferrer><img src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg alt=azure width=40 height=40/></a>
   <a href=https://getbootstrap.com target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=bootstrap width=40 height=40/></a>
   <a href=https://canvasjs.com target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg alt=canvasjs width=40 height=40/></a>
