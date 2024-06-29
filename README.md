@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my public projects are available at [https://github.com/pedro-val](https://github.com/pedro-val)
 
-- 💬 Ask me about **JavaScript, TypeScript, API REST**
+- 💬 Ask me about **Rust, TypeScript, API REST**
 
 - 📫 How to reach me **prmval@gmail.com**
 
